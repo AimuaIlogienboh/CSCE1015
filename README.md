@@ -4,5 +4,5 @@ Assignment repository for UNT CSCE1015
 
 ## ayi0002
 
-## Dr.Hochstetler
-$(Dr_Hochstetler)
+## Favorite Professor
+Dr.Hochstetler
